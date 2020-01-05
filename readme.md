@@ -1,6 +1,6 @@
 ## About Support
 
-A simple tickiting system based on laravel
+A simple ticketing system based on laravel
 
 ![Support](https://github.com/iYogesharma/Support/blob/master/public/demo.png)
 
