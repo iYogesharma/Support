@@ -1,0 +1,15 @@
+.text-center{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+th{
+    font-weight: bolder;
+    background: #fff;
+}
+.panel-default > .panel-heading {
+    color:#333;
+    background-color:#f5f5f5;
+    border-color:#ddd;
+}
