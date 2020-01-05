@@ -2,7 +2,7 @@
 
 A simple tickiting system based on laravel
 
-![Support](/demo.png)
+![Support](https://github.com/iYogesharma/Support/blob/master/public/demo.png)
 
 ## Steps to install
 
